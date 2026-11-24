@@ -1,0 +1,34 @@
+FINAL PROJECT: PERSONAL MINI-TOOLKIT
+
+1. NUMBER GUESSING GAME
+This tool asks the user to guess a random number between 1 and 10.
+It tells the user whether the guess is too high or too low until they guess correctly.
+Concepts: Variables, input, random module, while loop, if/elif/else.
+
+2. TO-DO LIST
+This tool allows users to add, view, and remove tasks.
+The tasks are stored in a list while the program is running.
+Concepts: Lists, append(), pop(), for loop, while loop, conditions.
+
+3. SIMPLE CALCULATOR
+This tool asks the user for two numbers and allows them to add, subtract, multiply, or divide.
+Concepts: Variables, input, float(), if/elif/else, arithmetic operators.
+
+MAIN MENU:
+
+========== PERSONAL MINI-TOOLKIT ==========
+1. Number Guessing Game
+2. To-Do List
+3. Simple Calculator
+4. Quit
+
+Choose an option (1-4):
+
+TO-DO LIST MENU:
+
+1. Add a task
+2. View tasks
+3. Remove a task
+4. Return to main menu
+
+The program will continue showing the main menu until the user chooses Quit.
